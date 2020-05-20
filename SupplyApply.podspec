@@ -20,7 +20,7 @@ s.author = { "ayushkumar8286" => "ayushkumar8286@gmail.com" }
 s.homepage = "https://github.com/AyushKumar8286"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/AyushKumar8286/SupplyApplySamplePod.git",
+s.source = { :git => "https://github.com/AyushKumar8286/SupplyApply.git",
              :tag => "#{s.version}" }
 
 # 7
