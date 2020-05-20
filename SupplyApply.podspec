@@ -17,10 +17,10 @@ s.license = { :type => "MIT", :file => "LICENSE" }
 s.author = { "ayushkumar8286" => "ayushkumar8286@gmail.com" }
 
 # 5 - Replace this URL with your own GitHub page's URL (from the address bar)
-s.homepage = "https://github.com/AyushKumar8286/SamplePod"
+s.homepage = "https://github.com/AyushKumar8286"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/AyushKumar8286/SamplePod.git",
+s.source = { :git => "https://github.com/AyushKumar8286/SupplyApplySamplePod.git",
              :tag => "#{s.version}" }
 
 # 7
