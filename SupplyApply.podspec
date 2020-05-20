@@ -32,7 +32,7 @@ s.dependency 'Nuke'
 s.dependency 'IQKeyboardManagerSwift'
 s.dependency 'GoogleMaps'
 s.dependency 'DropDown', '2.3.2'
-s.dependency ‘SwiftRangeSlider’
+s.dependency 'SwiftRangeSlider'
 s.dependency 'Stripe'
 
 # 8
