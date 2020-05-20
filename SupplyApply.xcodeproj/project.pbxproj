@@ -151,6 +151,7 @@
 		8AC0BA79245C4C3000A587A2 /* SortList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AC0BA78245C4C3000A587A2 /* SortList.swift */; };
 		8AC0F54A24698D2800472701 /* FilterData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AC0F54924698D2800472701 /* FilterData.swift */; };
 		8AC9EC3424545247000CD1ED /* ProductInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AC9EC3324545247000CD1ED /* ProductInfo.swift */; };
+		8ACE4B142474F4A700B3EC49 /* SupplyApply.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 8ACE4B132474F4A600B3EC49 /* SupplyApply.podspec */; };
 		8AD16191245ABC0500421348 /* DealoftheDayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AD1618F245ABC0500421348 /* DealoftheDayViewController.swift */; };
 		8AD16192245ABC0500421348 /* DealoftheDayViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8AD16190245ABC0500421348 /* DealoftheDayViewController.xib */; };
 		8AECA281246529DC0022F124 /* OrderDetailTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AECA27F246529DC0022F124 /* OrderDetailTableViewCell.swift */; };
@@ -320,6 +321,7 @@
 		8AC0BA78245C4C3000A587A2 /* SortList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortList.swift; sourceTree = "<group>"; };
 		8AC0F54924698D2800472701 /* FilterData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterData.swift; sourceTree = "<group>"; };
 		8AC9EC3324545247000CD1ED /* ProductInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductInfo.swift; sourceTree = "<group>"; };
+		8ACE4B132474F4A600B3EC49 /* SupplyApply.podspec */ = {isa = PBXFileReference; lastKnownFileType = file; path = SupplyApply.podspec; sourceTree = SOURCE_ROOT; };
 		8AD1618F245ABC0500421348 /* DealoftheDayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DealoftheDayViewController.swift; sourceTree = "<group>"; };
 		8AD16190245ABC0500421348 /* DealoftheDayViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DealoftheDayViewController.xib; sourceTree = "<group>"; };
 		8AECA27F246529DC0022F124 /* OrderDetailTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderDetailTableViewCell.swift; sourceTree = "<group>"; };
@@ -571,6 +573,7 @@
 		28F1461C23FC0C8D0038CB37 /* SupplyApply */ = {
 			isa = PBXGroup;
 			children = (
+				8ACE4B132474F4A600B3EC49 /* SupplyApply.podspec */,
 				28FAB7B82428A8BC00271C43 /* Supply Apply.entitlements */,
 				28F1471023FC0E550038CB37 /* Data */,
 				28F1463123FC0E520038CB37 /* Constants */,
@@ -1065,6 +1068,7 @@
 				28F147B223FC0E560038CB37 /* LoginViewController.xib in Resources */,
 				8A3D2A182457113B00809400 /* FaqViewController.xib in Resources */,
 				28721A79241B6EDA00B65546 /* Raleway-SemiBold.ttf in Resources */,
+				8ACE4B142474F4A700B3EC49 /* SupplyApply.podspec in Resources */,
 				28721A80241B6EDA00B65546 /* Raleway-Black.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

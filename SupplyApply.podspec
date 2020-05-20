@@ -36,10 +36,10 @@ s.dependency ‘SwiftRangeSlider’
 s.dependency 'Stripe'
 
 # 8
-s.source_files = "SamplePod/**/*.{swift}"
+s.source_files = "SupplyApply/**/*.{swift}"
 
 # 9
-s.resources = "SamplePod/**/*.{png,jpeg,jpg,storyboard,xib,xcassets,pdf}"
+s.resources = "SupplyApply/**/*.{png,jpeg,jpg,storyboard,xib,xcassets,pdf}"
 
 # 10
 s.swift_version = "5"
